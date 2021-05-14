@@ -1,0 +1,7 @@
+.sec1-card {
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  width: 1200px;
+  height: 80vh;
+}
